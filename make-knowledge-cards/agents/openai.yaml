@@ -1,0 +1,3 @@
+interface:
+  display_name: "知识卡片生成"
+  short_description: "把文章或 Markdown/TXT 文件转成 5-8 张知识卡片"
